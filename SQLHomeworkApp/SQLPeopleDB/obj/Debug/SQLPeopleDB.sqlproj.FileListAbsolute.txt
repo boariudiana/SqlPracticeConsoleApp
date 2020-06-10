@@ -1,0 +1,10 @@
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\bin\Debug\SQLPeopleDB.dacpac
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\bin\Debug\SQLPeopleDB.dll
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\bin\Debug\SQLPeopleDB.pdb
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\SQLPeopleDB.sqlprojAssemblyReference.cache
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\Model.xml
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\refactor.xml
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\postdeploy.sql
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\predeploy.sql
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\SQLPeopleDB.dll
+C:\Users\Flavius\source\repos\SQLHomeworkApp\SQLPeopleDB\obj\Debug\SQLPeopleDB.pdb

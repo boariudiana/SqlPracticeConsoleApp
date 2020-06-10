@@ -1,0 +1,9 @@
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\bin\Debug\netcoreapp3.1\DataAccesLibrary.deps.json
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\bin\Debug\netcoreapp3.1\DataAccesLibrary.dll
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\obj\Debug\netcoreapp3.1\DataAccesLibrary.csprojAssemblyReference.cache
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\obj\Debug\netcoreapp3.1\DataAccesLibrary.AssemblyInfoInputs.cache
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\obj\Debug\netcoreapp3.1\DataAccesLibrary.AssemblyInfo.cs
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\bin\Debug\netcoreapp3.1\DataAccesLibrary.pdb
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\obj\Debug\netcoreapp3.1\DataAccesLibrary.dll
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\obj\Debug\netcoreapp3.1\DataAccesLibrary.pdb
+C:\Users\Flavius\source\repos\SQLHomeworkApp\DataAccesLibrary\obj\Debug\netcoreapp3.1\DataAccesLibrary.csproj.CoreCompileInputs.cache
